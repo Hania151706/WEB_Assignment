@@ -51,7 +51,9 @@ Each section corresponds to a block in the Figma design.
 
 ## 🖼️ Screenshots
 
-Screenshots of the implementation have been added to the repo for reference:
+Screenshots of the implementation have been added for reference.  
+- **Left side:** My implementation  
+- **Right side:** Original Figma design 
 
 ### Header
 
